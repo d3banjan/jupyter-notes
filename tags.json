@@ -1,0 +1,91 @@
+{
+    "subjects": [
+	{
+	    "id": "Physics",
+	    "short": "phy",
+	    "topics":[
+		{
+		    "id":"Classical Mechanics",
+		    "short":"cm",
+		    "subtopics":[]
+		},
+		{
+		    "id":"Electromagnetism",
+		    "short":"em",
+		    "subtopics":[]
+		},
+		{
+		    "id":"Quantum Mechanics",
+		    "short":"qm",
+		    "subtopics":[]
+		},
+		{
+		    "id":"Condensed Matter Physics",
+		    "short":"cmp",
+		    "subtopics":[]
+		},
+		{
+		    "id":"Density Functional Theory",
+		    "short":"dft",
+		    "subtopics":[]
+		}
+	    ]
+	},
+	{
+	    "id": "Mathematics",
+	    "short": "math",
+	    "topics":[
+		{
+		    "id":"Groups",
+		    "short":"groups",
+		    "subtopics":[]
+		},
+		{
+		    "id":"Linear Algebra",
+		    "short":"linalg",
+		    "subtopics":[]
+		}
+	    ]
+	},
+	{
+	    "id": "Programming",
+	    "short": "prog",
+	    "topics":[
+		{
+		    "id":"Bash",
+		    "short":"sh",
+		    "subtopics":[]
+		},
+		{
+		    "id":"Fortran",
+		    "short":"fort",
+		    "subtopics":[]
+		},
+		{
+		    "id":"Gnuplot",
+		    "short":"gplt",
+		    "subtopics":[]
+		},
+		{
+		    "id":"Python",
+		    "short":"py",
+		    "subtopics":[
+			{
+			    "id":"Vanilla Python",
+			    "short":"py"
+			},
+			{
+			    "id":"Matplotlib",
+			    "short":"mpl"
+			},
+			{
+			    "id":"Mayavi",
+			    "short":"py"
+			}
+		    ]
+		}
+	    ]
+	}
+    ]
+}
+
